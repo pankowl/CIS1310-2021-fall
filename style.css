@@ -1,0 +1,19 @@
+body {
+    background-color: lightgrey;
+}
+header {
+    background-color: darkgrey;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    color: darkolivegreen;
+    font-family: "Lucida Handwriting";
+}
+h3{
+    color: darkolivegreen;
+    font-family: "Times New Roman" serif;
+}
+a {
+    color: deeppink;
+    font-family: "Papyrus";
+}
