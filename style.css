@@ -4,16 +4,24 @@ body {
 header {
     background-color: darkgrey;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 5rem 5rem 5rem 5rem;
+    margin: 0 19rem 0 19rem;
 }
 h1 {
     color: darkolivegreen;
     font-family: "Lucida Handwriting";
+    text-align: center;
 }
 h3{
     color: darkolivegreen;
     font-family: "Times New Roman" serif;
+    text-align: center;
+}
+nav {
+    font-family: "Papyrus";
+    text-align: center;
 }
 a {
-    color: deeppink;
-    font-family: "Papyrus";
+    color: deeppinks;
 }
