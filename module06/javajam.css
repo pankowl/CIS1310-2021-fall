@@ -1,10 +1,10 @@
 body {
-    background-color: #b89e81;
+    background-color: #fcebb6;
     color: #221811;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 header {
-    background-color: #FCEBB6;
+    background-color: #d2b48c;
     text-align: center;
 }
 h1 {
@@ -17,11 +17,10 @@ nav {
 footer {
     background-color: #d2b48c;
     font-size: small;
-    font-size: .60em;
     font-style: italic;
     text-align: center;
 }
-#wrapper{
+#wrapper {
     width: 80%;
     margin-right: auto;
     margin-left: auto;
